@@ -9,6 +9,6 @@ Description: "Explorations of the complexities, joys, and challenges of life—o
 Draft: 
 ---
 
-- ## [You Are Not Everyone’s Cup of Tea, and That’s Okay](http://localhost:1313/post/cupoftea/)
+- ## [You Are Not Everyone’s Cup of Tea, and That’s Okay](/post/cupoftea/)
 
 > There’s a unique kind of freedom in realizing that you don’t have to be loved or understood by everyone. In a world that constantly pushes us to...
