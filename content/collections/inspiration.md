@@ -9,7 +9,7 @@ Description: "Uplifting and motivational pieces that spark creativity, encourage
 Draft: 
 ---
 
-- ## [the comfort in “wait nalang kita”](http://localhost:1313/post/wait/)
+- ## [the comfort in “wait nalang kita”](/post/wait/)
 
 > There’s something soft and gentle about “hintayin/wait nalang kita” no? When you think about it, simple lang ‘to pero it shows na someone is waiting for you patiently...
 
