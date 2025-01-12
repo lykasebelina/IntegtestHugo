@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inspiration on IsipTala</title>
+    <link>http://localhost:1313/tags/inspiration/</link>
+    <description>Recent content in Inspiration on IsipTala</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>sample@gmail.com (Lyka Sebelina)</managingEditor>
+    <webMaster>sample@gmail.com (Lyka Sebelina)</webMaster>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/inspiration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inspiration</title>
+      <link>http://localhost:1313/collections/2023/inspiration/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Lyka Sebelina)</author>
+      <guid>http://localhost:1313/collections/2023/inspiration/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h2 id=&#34;the-comfort-in-wait-nalang-kitahttplocalhost1313post2020wait&#34;&gt;&lt;a href=&#34;http://localhost:1313/post/2020/wait/&#34;&gt;the comfort in “wait nalang kita”&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;There’s something soft and gentle about “hintayin/wait nalang kita” no? When you think about it, simple lang ‘to pero it shows na someone is waiting for you patiently&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stories on IsipTala</title>
+    <link>http://localhost:1313/tags/stories/</link>
+    <description>Recent content in Stories on IsipTala</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>sample@gmail.com (Lyka Sebelina)</managingEditor>
+    <webMaster>sample@gmail.com (Lyka Sebelina)</webMaster>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/stories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stories</title>
+      <link>http://localhost:1313/collections/2023/stories/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Lyka Sebelina)</author>
+      <guid>http://localhost:1313/collections/2023/stories/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h2 id=&#34;the-struggle-of-being-the-last-cardhttplocalhost1313post2020lastcard&#34;&gt;&lt;a href=&#34;http://localhost:1313/post/2020/lastcard/&#34;&gt;The struggle of being the last card.&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;People always say that the youngest are the spoiled one but no one talks about the burden of being the youngest&amp;hellip;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h2 id=&#34;the-pain-of-a-student-leaderhttplocalhost1313post2020studentleader&#34;&gt;&lt;a href=&#34;http://localhost:1313/post/2020/studentleader/&#34;&gt;the pain of a student leader&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Student leaders, like all of us, are humans. Many people forget that. We may have chosen to serve the students and the school, but it feels like being under their microscope means&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thoughts on IsipTala</title>
+    <link>http://localhost:1313/tags/thoughts/</link>
+    <description>Recent content in Thoughts on IsipTala</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>sample@gmail.com (Lyka Sebelina)</managingEditor>
+    <webMaster>sample@gmail.com (Lyka Sebelina)</webMaster>
+    <lastBuildDate>Tue, 26 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Suicide is About Wanting to Live</title>
+      <link>http://localhost:1313/post/2020/suicide/</link>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Lyka Sebelina)</author>
+      <guid>http://localhost:1313/post/2020/suicide/</guid>
+      <description>&lt;h4 id=&#34;-written-by-odawni&#34;&gt;&lt;em&gt;-Written By Odawni&lt;/em&gt;&lt;/h4&gt;&#xA;&lt;h3 id=&#34;the-paradox-of-suicidal-thinking&#34;&gt;The Paradox of Suicidal Thinking&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/suicide.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;If you’ve never experienced suicidal thinking, the idea of wanting to end your life seems extreme. It is.&lt;/p&gt;&#xA;&lt;p&gt;It’s extremely painful to wrestle with a brain screaming at you that you’re better off dead.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thoughts</title>
+      <link>http://localhost:1313/collections/2023/thoughts/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Lyka Sebelina)</author>
+      <guid>http://localhost:1313/collections/2023/thoughts/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h2 id=&#34;the-uncertainty-of-everythinghttplocalhost1313post2020uncertainty&#34;&gt;&lt;a href=&#34;http://localhost:1313/post/2020/uncertainty/&#34;&gt;the uncertainty of everything&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Has the uncertainty of the world ever crossed your mind? What will happen in the future? I often ponder what the future holds and I always believe in the saying “It is what it is.”&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

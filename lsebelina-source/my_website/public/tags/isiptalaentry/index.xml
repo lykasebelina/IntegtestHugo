@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Isiptalaentry on IsipTala</title>
+    <link>http://localhost:1313/tags/isiptalaentry/</link>
+    <description>Recent content in Isiptalaentry on IsipTala</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>sample@gmail.com (Lyka Sebelina)</managingEditor>
+    <webMaster>sample@gmail.com (Lyka Sebelina)</webMaster>
+    <lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/isiptalaentry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>the uncertainty of everything</title>
+      <link>http://localhost:1313/post/2020/uncertainty/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Lyka Sebelina)</author>
+      <guid>http://localhost:1313/post/2020/uncertainty/</guid>
+      <description>&lt;h4 id=&#34;-written-by-apollyon&#34;&gt;&lt;em&gt;-Written By Apollyon&lt;/em&gt;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/uncertainty.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Has the uncertainty of the world ever crossed your mind? What will happen in the future? I often ponder what the future holds and I always believe in the saying “It is what it is.”&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

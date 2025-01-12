@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poetry on IsipTala</title>
+    <link>http://localhost:1313/tags/poetry/</link>
+    <description>Recent content in Poetry on IsipTala</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>sample@gmail.com (Lyka Sebelina)</managingEditor>
+    <webMaster>sample@gmail.com (Lyka Sebelina)</webMaster>
+    <lastBuildDate>Sat, 04 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/poetry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ang paglubog ng bangka sa gitna ng malakas na alon</title>
+      <link>http://localhost:1313/post/2020/bangka/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Lyka Sebelina)</author>
+      <guid>http://localhost:1313/post/2020/bangka/</guid>
+      <description>&lt;h4 id=&#34;-written-by-maria-coquilla&#34;&gt;&lt;em&gt;-Written By Maria Coquilla&lt;/em&gt;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/bangka.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Sa gitna ng malakas na&lt;br&gt;&#xA;pagpatak ng sanlibong&lt;br&gt;&#xA;butil ng ulan at malamig&lt;br&gt;&#xA;na simoy na hangin,&lt;br&gt;&#xA;ako&amp;rsquo;y nasa kanto ng terando&lt;br&gt;&#xA;at tila&amp;rsquo;y nagmumukmok sa&lt;br&gt;&#xA;bawat kurbada&amp;rsquo;t hanging dumadaan&lt;br&gt;&#xA;Tila&amp;rsquo;y mga lusaw na&lt;br&gt;&#xA;halaya&amp;rsquo;t dikyang dumadampi&lt;br&gt;&#xA;sa aking tuyo&amp;rsquo;t tigang na&lt;br&gt;&#xA;lalamunan, inuming kolang&lt;br&gt;&#xA;sinawsawan ng kinukubong yelo&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>the comfort in “wait nalang kita”</title>
+      <link>http://localhost:1313/post/2020/wait/</link>
+      <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Lyka Sebelina)</author>
+      <guid>http://localhost:1313/post/2020/wait/</guid>
+      <description>&lt;h4 id=&#34;-written-by-kalon&#34;&gt;&lt;em&gt;-Written By Kalon&lt;/em&gt;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/wait.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;There’s something soft and gentle about “hintayin/wait nalang kita” no? When you think about it, simple lang ‘to pero it shows na someone is waiting for you patiently. Na para bang “Gawin mo lang yung mga dapat mong gawin, nandito lang ako, hinihintay ka.” or “You do your thing, I’ll wait.”&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Poetry</title>
+      <link>http://localhost:1313/collections/2023/poetry/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Lyka Sebelina)</author>
+      <guid>http://localhost:1313/collections/2023/poetry/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h2 id=&#34;ang-paglubog-ng-bangka-sa-gitna-ng-malakas-na-alonhttplocalhost1313post2020bangka&#34;&gt;&lt;a href=&#34;http://localhost:1313/post/2020/bangka/&#34;&gt;Ang paglubog ng bangka sa gitna ng malakas na alon&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Sa gitna ng malakas na&#xA;pagpatak ng sanlibong&#xA;butil ng ulan at malamig&#xA;na simoy na hangin, ako’y nasa kanto ng terando&#xA;at tila’y nagmumukmok sa&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My most quiet moments are the loudest ones.</title>
+      <link>http://localhost:1313/post/2020/quietmoments/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><author>sample@gmail.com (Lyka Sebelina)</author>
+      <guid>http://localhost:1313/post/2020/quietmoments/</guid>
+      <description>&lt;h4 id=&#34;-written-by-eriwrites&#34;&gt;&lt;em&gt;-Written By EriWrites&lt;/em&gt;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/quietmoments.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Sometimes, I wish death scares me more than living does. For I always wonder:&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;“Am I living, or just passing time?”&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;“Am I gentle, or the world is just too cruel?”&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

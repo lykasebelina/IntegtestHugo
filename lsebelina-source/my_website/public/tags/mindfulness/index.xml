@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mindfulness on IsipTala</title>
+    <link>http://localhost:1313/tags/mindfulness/</link>
+    <description>Recent content in Mindfulness on IsipTala</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>sample@gmail.com (Lyka Sebelina)</managingEditor>
+    <webMaster>sample@gmail.com (Lyka Sebelina)</webMaster>
+    <lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mindfulness/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>You Are Not Everyone’s Cup of Tea, and That’s Okay</title>
+      <link>http://localhost:1313/post/2020/cupoftea/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Lyka Sebelina)</author>
+      <guid>http://localhost:1313/post/2020/cupoftea/</guid>
+      <description>&lt;h4 id=&#34;-written-by-lifeinletters&#34;&gt;&lt;em&gt;-Written By LifeInLetters&lt;/em&gt;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/cupoftea.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;There’s a unique kind of freedom in realizing that you don’t have to be loved or understood by everyone. In a world that constantly pushes us to fit in, to be liked, and to meet expectations, it’s easy to feel like something is wrong with us when we don’t. But here’s the truth: &lt;em&gt;you were not made to be everyone’s favorite&lt;/em&gt;, and you don’t have to be.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

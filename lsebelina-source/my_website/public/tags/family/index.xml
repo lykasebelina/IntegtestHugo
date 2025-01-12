@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Family on IsipTala</title>
+    <link>http://localhost:1313/tags/family/</link>
+    <description>Recent content in Family on IsipTala</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>sample@gmail.com (Lyka Sebelina)</managingEditor>
+    <webMaster>sample@gmail.com (Lyka Sebelina)</webMaster>
+    <lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/family/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>this house never feels like “home”</title>
+      <link>http://localhost:1313/post/2020/home/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Lyka Sebelina)</author>
+      <guid>http://localhost:1313/post/2020/home/</guid>
+      <description>&lt;h4 id=&#34;-written-by-sol&#34;&gt;&lt;em&gt;-Written By Sol&lt;/em&gt;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/home.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Where do you go when your home does not feels like home&amp;hellip;?&lt;/p&gt;&#xA;&lt;p&gt;They say the word &amp;ldquo;house&amp;rdquo; is different to the word &amp;ldquo;home&amp;rdquo; wherein the word house is about a building made for people or a family to live in, while the word home is about the family living in a house, a special place where you feel most comfortable and that belongs to you, or a place that full of love and caring family.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

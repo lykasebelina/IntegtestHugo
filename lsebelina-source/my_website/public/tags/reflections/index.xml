@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reflections on IsipTala</title>
+    <link>http://localhost:1313/tags/reflections/</link>
+    <description>Recent content in Reflections on IsipTala</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>sample@gmail.com (Lyka Sebelina)</managingEditor>
+    <webMaster>sample@gmail.com (Lyka Sebelina)</webMaster>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/reflections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflections</title>
+      <link>http://localhost:1313/collections/2023/reflections/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Lyka Sebelina)</author>
+      <guid>http://localhost:1313/collections/2023/reflections/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h2 id=&#34;leron-a-melody-of-longing-and-hopehttplocalhost1313post2020leron&#34;&gt;&lt;a href=&#34;http://localhost:1313/post/2020/leron/&#34;&gt;Leron: A Melody of Longing and Hope&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Pagmamahal oras at haplos&#xA;Ng ‘yong kamay ang aking hanap&#xA;Ika’y nagkulang at ngayo’y nangungulila&#xA;Listening to “Leron” for the first time felt like&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

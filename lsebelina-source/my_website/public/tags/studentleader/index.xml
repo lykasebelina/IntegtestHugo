@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Studentleader on IsipTala</title>
+    <link>http://localhost:1313/tags/studentleader/</link>
+    <description>Recent content in Studentleader on IsipTala</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>sample@gmail.com (Lyka Sebelina)</managingEditor>
+    <webMaster>sample@gmail.com (Lyka Sebelina)</webMaster>
+    <lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/studentleader/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>the pain of a student leader</title>
+      <link>http://localhost:1313/post/2020/studentleader/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Lyka Sebelina)</author>
+      <guid>http://localhost:1313/post/2020/studentleader/</guid>
+      <description>&lt;h4 id=&#34;-written-by-spamlydumbest&#34;&gt;&lt;em&gt;-Written By Spamlydumbest&lt;/em&gt;&lt;/h4&gt;&#xA;&lt;h3 id=&#34;so-many-eyes-are-waiting-for-me-to-fail&#34;&gt;So many eyes are waiting for me to fail.&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/studentleader.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Student leaders, like all of us, are humans. Many people forget that.&lt;/p&gt;&#xA;&lt;p&gt;We may have chosen to serve the students and the school, but it feels like being under their microscope means that a single wrong move might portray us as the bad guy.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

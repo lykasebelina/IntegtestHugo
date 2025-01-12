@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Self on IsipTala</title>
+    <link>http://localhost:1313/tags/self/</link>
+    <description>Recent content in Self on IsipTala</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>sample@gmail.com (Lyka Sebelina)</managingEditor>
+    <webMaster>sample@gmail.com (Lyka Sebelina)</webMaster>
+    <lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/self/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Hope My Younger Self Forgives Me For What We Have Not Become</title>
+      <link>http://localhost:1313/post/2020/myyoungerself/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate><author>sample@gmail.com (Lyka Sebelina)</author>
+      <guid>http://localhost:1313/post/2020/myyoungerself/</guid>
+      <description>&lt;h4 id=&#34;-written-by-che&#34;&gt;&lt;em&gt;-Written By Che&lt;/em&gt;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/myyoungerself.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Younger me has so many dreams she wanted to achieve. I can clearly remember how her eyes shine when daydreaming.&lt;/p&gt;&#xA;&lt;p&gt;I am sorry for many things I did not achieve for her because I fell short. Maybe I was a coward for not pursuing a course or a profession both of us wanted, but know that I choose practicality above all else.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
