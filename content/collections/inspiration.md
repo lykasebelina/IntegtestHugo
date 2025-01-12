@@ -9,11 +9,11 @@ Description: "Uplifting and motivational pieces that spark creativity, encourage
 Draft: 
 ---
 
-- ## [the comfort in “wait nalang kita”](https://lykasebelina.netlify.app/post/wait/)
+- ## [the comfort in “wait nalang kita”](/post/wait/)
 
 > There’s something soft and gentle about “hintayin/wait nalang kita” no? When you think about it, simple lang ‘to pero it shows na someone is waiting for you patiently...
 
-- ## [My most quiet moments are the loudest ones.](https://lykasebelina.netlify.app/post/quietmoments/)
+- ## [My most quiet moments are the loudest ones.](/post/quietmoments/)
 
 > Sometimes, I wish death scares me more than living does. For I always wonder:
 “Am I living, or just passing time?”

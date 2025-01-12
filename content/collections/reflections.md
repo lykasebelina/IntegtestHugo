@@ -9,22 +9,22 @@ Description: "Introspective pieces focused on self-discovery, personal growth, a
 Draft: 
 ---
 
-- ## [Leron: A Melody of Longing and Hope](https://lykasebelina.netlify.app/post/leron/)
+- ## [Leron: A Melody of Longing and Hope](/post/leron/)
 
 > Pagmamahal oras at haplos
 Ng ‘yong kamay ang aking hanap
 Ika’y nagkulang at ngayo’y nangungulila
 Listening to “Leron” for the first time felt like...
 
-- ## [Who am I ?!](https://lykasebelina.netlify.app/post/whoami/)
+- ## [Who am I ?!](/post/whoami/)
 
 > Who am I ?! This is the most asked question in my life. Yet no clear answer has yet been found.
 As a child, the answer to this question was simple...
 
-- ## [Suicide is About Wanting to Live](https://lykasebelina.netlify.app/post/suicide/)
+- ## [Suicide is About Wanting to Live](/post/suicide/)
 
 > If you’ve never experienced suicidal thinking, the idea of wanting to end your life seems extreme. It is. It’s extremely painful to wrestle with a brain screaming...
 
-- ## [I Hope My Younger Self Forgives Me For What We Have Not Become](https://lykasebelina.netlify.app/post/myyoungerself/)
+- ## [I Hope My Younger Self Forgives Me For What We Have Not Become](/post/myyoungerself/)
 
 > Younger me has so many dreams she wanted to achieve. I can clearly remember how her eyes shine when daydreaming. I am sorry for many things...

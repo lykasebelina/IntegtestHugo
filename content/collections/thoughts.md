@@ -9,10 +9,10 @@ Description: "A collection of deep reflections, personal musings, and philosophi
 Draft: 
 ---
 
-- ## [the uncertainty of everything](https://lykasebelina.netlify.app/post/uncertainty/)
+- ## [the uncertainty of everything](/post/uncertainty/)
 
 > Has the uncertainty of the world ever crossed your mind? What will happen in the future? I often ponder what the future holds and I always believe in the saying “It is what it is.”...
 
-- ## [this house never feels like “home”](https://lykasebelina.netlify.app/post/home/)
+- ## [this house never feels like “home”](/post/home/)
 
 > Where do you go when your home does not feels like home…? They say the word “house” is different to the word “home” wherein the word house is about...

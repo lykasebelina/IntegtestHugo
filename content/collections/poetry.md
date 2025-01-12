@@ -9,7 +9,7 @@ Description: "Creative expressions of emotions, thoughts, and imaginations, craf
 Draft: 
 ---
 
-- ## [Ang paglubog ng bangka sa gitna ng malakas na alon](https://lykasebelina.netlify.app/post/bangka/)
+- ## [Ang paglubog ng bangka sa gitna ng malakas na alon](/post/bangka/)
 
 > Sa gitna ng malakas na
 pagpatak ng sanlibong
