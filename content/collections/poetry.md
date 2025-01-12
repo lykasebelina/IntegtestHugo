@@ -9,7 +9,7 @@ Description: "Creative expressions of emotions, thoughts, and imaginations, craf
 Draft: 
 ---
 
-- ## [Ang paglubog ng bangka sa gitna ng malakas na alon](http://localhost:1313/post/2020/bangka/)
+- ## [Ang paglubog ng bangka sa gitna ng malakas na alon](http://localhost:1313/post/bangka/)
 
 > Sa gitna ng malakas na
 pagpatak ng sanlibong
